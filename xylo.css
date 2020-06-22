@@ -1,0 +1,8 @@
+#red, #yellow, #orange, #blue, #indigo, #violet, #yellow, #green{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  font-family: fantasy;
+
+}
